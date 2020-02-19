@@ -1,3 +1,3 @@
-# cuijeux
+# Cuijeux
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/cuijeux)
+Le Studio
